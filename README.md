@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miniigrace.
 - 👀 I’m interested in arts, travel, food, games, anime..
-- 🌱 I’m currently learning how to code to become a full stack developer ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  -- >> grasha.petite@gmail.com.
+- 🌱 I’m currently studying web development @ University of California, Berkeley
+
+
 
 <!---
 miniigrace/miniigrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
