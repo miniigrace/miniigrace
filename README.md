@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miniigrace.
 - 👀 I’m interested in arts, travel, food, games, anime..
-- 🌱 I’m currently studying web development @ University of California, Berkeley
+- 🌱 I’m currently studying web development @ University of California, Berkeley Extension
 
 
 
